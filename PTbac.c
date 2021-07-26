@@ -12,7 +12,7 @@ int main (void)
         if(b == 0)
             printf("phuong trinh vo nghiem");
         else
-            printf("phuong trinh vo so nghiem");
+            printf("phuong trinh vo so nghiem\n");
     }
         else
             printf("phuong trinh co mot nghiem duy nhat x = %f", (float)(-b/2*a));
